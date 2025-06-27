@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_guid: f41b71faab70436c8f46dd8c6b5377cd
   m_guidHash: -2102875532
-  m_version: 1
-  m_workshopID: 0
-  m_lastPublishedAt: 0
+  m_version: 2
+  m_workshopID: 3510257601
+  m_lastPublishedAt: 638866382305479424
   m_name: Easy Mode
   m_description: Makes your journey through the UnderMine easier
   m_tags: undermine,undermine2
