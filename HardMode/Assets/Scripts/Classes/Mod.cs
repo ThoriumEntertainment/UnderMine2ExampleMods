@@ -23,9 +23,11 @@ namespace Mod_ddf88184e367440189877626c055ac2e
             }
             
             yield return null;
-
-            var simEntity = Services.Players.PrimaryPlayer.SimEntity;
-            Services.Runner.Run(m_hardModeGlobalBehavior.Asset, null, null);            
+            
+            if (!Services.Runner.Run(m_hardModeGlobalBehavior.Asset, null, null))
+            {
+                Debug.LogError("[HardMode Mod] Unable to run global behavior");
+            }
         }
     }
 }
