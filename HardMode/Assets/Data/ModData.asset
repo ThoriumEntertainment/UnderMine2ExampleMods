@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_guid: ddf88184e367440189877626c055ac2e
   m_guidHash: 139658976
-  m_version: 2
+  m_version: 3
   m_workshopID: 3510112676
-  m_lastPublishedAt: 638866259734316563
+  m_lastPublishedAt: 638866297597308971
   m_name: Hard Mode
   m_description: Adds some extra challenges to the UnderMine
   m_tags: undermine,undermine2
