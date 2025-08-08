@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -94742530, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  m_guid: d9234e2c79fd4693a4dc211fb5e88fce
+  m_guidHash: -1836138066
+  m_type: 1
+  m_isoName: 
+  m_target:
+    guid: 1bd18ba9860aaea4fa15e9e89c15b6ed
+    guidHash: -1654123877
+  m_icon: {fileID: 0}
+  m_elements:
+  - guidHash: -739895969
+    text: Basement in a Bottle
+  - guidHash: 890587980
+    text: Opens up a stairway to the basement

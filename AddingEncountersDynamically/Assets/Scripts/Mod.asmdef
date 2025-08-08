@@ -1,0 +1,14 @@
+{
+    "name": "Mod",
+    "rootNamespace": "Mod_e27493c24d5347f894c02a48faf3a207",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

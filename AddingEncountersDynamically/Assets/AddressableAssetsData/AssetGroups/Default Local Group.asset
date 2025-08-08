@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 6ec1c6b571e117240b6acddde3b16c63
+  m_SerializeEntries:
+  - m_GUID: 0c8e7a2f7aca2174a8cdbea000aa23f0
+    m_Address: RoomCluster_ModBasement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 145604ebee603cf44a87a33542b458ff
+    m_Address: SetPiece_ModBasementEntrance
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14860bbc16b83ad4ebf30d823cb2d6f8
+    m_Address: ModData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd18ba9860aaea4fa15e9e89c15b6ed
+    m_Address: English
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3827e9070553bf94fa0f3799499f66cd
+    m_Address: SetPiece_ModBasementEntrance
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46c36c0ac2a2b4a49b5491db950d648b
+    m_Address: Common_BasementInABottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c3fa84eb0fd64d4089e5fe65da8b280
+    m_Address: EncounterGroup_GoldenBasement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 586d78ccab89360428852901cf94516a
+    m_Address: Ability_Potion_BasementInABottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60755c1fcd1295540ad5f89c9acc4bcc
+    m_Address: Encounter_GoldenBasement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c789fa968f8a9a2479b72b5905f0b647
+    m_Address: Potion_BasementInABottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f41ca6b2b6ab4cd41bddab589745b130
+    m_Address: Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fffc6ac54accd214995d3f5773fb09c5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c0c7f0b060b63264bb563446bee851dd, type: 2}
+    - {fileID: 11400000, guid: a7d8e8000ddbd934da5ba33f025bf789, type: 2}
