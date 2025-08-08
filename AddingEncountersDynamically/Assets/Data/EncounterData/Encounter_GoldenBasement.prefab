@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7059746585102751040}
   - component: {fileID: 7606826702441209381}
   m_Layer: 0
-  m_Name: Tilemap (40)
+  m_Name: Tilemap (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85,6 +85,7 @@ MonoBehaviour:
   - {x: 5.6, y: 0, z: 5.6}
   - {x: 7.2, y: 0, z: 5.6}
   - {x: 0.8, y: 0, z: 5.6}
+  - {x: 5.6, y: 0, z: 0.8}
   m_entityDatas:
   - guid: a208db521b9e89a42b9aba61f7d67e85
     guidHash: -1941561287
@@ -166,6 +167,8 @@ MonoBehaviour:
     guidHash: -923520921
   - guid: 5b9ed69a9de3ac24abb2f29963c0e7fd
     guidHash: -923520921
+  - guid: fa9674dadab74ac43bde1353a6bcb1d3
+    guidHash: 1973917394
 --- !u!1 &7925596091464253586
 GameObject:
   m_ObjectHideFlags: 0
