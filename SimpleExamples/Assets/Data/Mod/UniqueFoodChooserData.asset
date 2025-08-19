@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d9caf33eacfd9842bfd4e1a09430ed1, type: 3}
+  m_Name: UniqueFoodChooserData
+  m_EditorClassIdentifier: 
+  m_guid: 8c25d3bdcef947dea52a8c6056590686
+  m_guidHash: 623054451
+  m_spawnables:
+    m_values:
+    - guid: 5d4b999e444fa3c41ade488cc3866689
+      guidHash: 763504485
+    - guid: 18bd10fb7fddddd47ba680754464e830
+      guidHash: 1760834047
+    - guid: a232ce855fa5cd2458ad3b479f3fba5b
+      guidHash: -41943629
