@@ -15,8 +15,20 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 3bc148be6e8d85447842b54281607f78
   m_SerializeEntries:
+  - m_GUID: 2390b878f4db2a14e979c7027498b3b1
+    m_Address: English
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f9cc2b97dc6c654cb3e07430049e5d3
     m_Address: ModData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52362e5889e066d4db43f9b2439eec3a
+    m_Address: UniqueFoodChooserData
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -26,6 +38,24 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ce664f72b5525d49aefc7e91ef880ac
+    m_Address: Ability_Arcana_Cookbook
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e7c2ef5d74364942936adc75f46d18b
+    m_Address: Arcana_Cookbook
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff33ee1e1085d144e824b8c82a5b841e
+    m_Address: Common_Cookbook
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c06ef25ef947d084aabad4dacad03b6c, type: 2}
