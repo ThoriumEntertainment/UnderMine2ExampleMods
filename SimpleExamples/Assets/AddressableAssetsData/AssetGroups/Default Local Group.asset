@@ -51,6 +51,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3f3ce7d1dead3448bd5bbabca75fa80
+    m_Address: Spanish
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ff33ee1e1085d144e824b8c82a5b841e
     m_Address: Common_Cookbook
     m_ReadOnly: 0
